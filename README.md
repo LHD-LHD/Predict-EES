@@ -7,3 +7,7 @@ The EMG peak-to-peak values collected from two participants are stored in 'Data/
 Run Visualization.ipynb to load the pretrined networks in 'Data/Torch models' folder and republicate the results.
 
 Run Neural Network Training.ipynb to train new neural networks based on EMG peak-to-peak values and calculated activation matrices.
+
+## Data Availability
+
+Due to participant privacy and ethical restrictions, not all clinical data associated with this study are publicly available. Researchers seeking access to the underlying data for validation, reproducibility, or other non-commercial scientific purposes may contact the authors at **[lhd21@mails.tsinghua.edu.cn](mailto:lhd21@mails.tsinghua.edu.cn)**. Access will be provided upon reasonable request, subject to applicable ethical and regulatory approvals.
