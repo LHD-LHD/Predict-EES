@@ -5,3 +5,7 @@ P1_Mapping_Validation: EMG peak-to-peak values of 12 muscles with recommended pa
 Stimulation parameters were represented as sequences containing 20 numbers: the first 16 numbers represent contact combination (1 stands for anode, -1 stands for cathode, 0 means the contact is not used), the 17th number represents stimulation amplitude (mA), the 18th number means stimulation frequency (Hz), the 19th number represent pulse width of the stimulation (μs), the last number means whether the outer surface of IPG is set as anode (0 stands for NOT and 1 stands for YES). 
 
 Data collected with left side stimulation (using left 16 contacts) were stored in the sheet named "L", while collected with right stimulation (using right 16 contacts) were stored in the sheet named "R". The contact arrangement could be found in Supplementary Material Fig. S8.  
+
+## Data Availability
+
+Due to participant privacy and ethical restrictions, not all clinical data associated with this study are publicly available. Researchers seeking access to the underlying data for validation, reproducibility, or other non-commercial scientific purposes may contact the authors at **[lhd21@mails.tsinghua.edu.cn](mailto:lhd21@mails.tsinghua.edu.cn)**. Access will be provided upon reasonable request, subject to applicable ethical and regulatory approvals.
